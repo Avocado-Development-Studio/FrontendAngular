@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
-Run `http-server -o` for a dev server. Navigate to `http://127.0.0.1:8080 /`, if you used `http server` without `-o` or else for some strange reason it did not open automatically in your browser. The application will not reload if you change any of the source files, because it not `ng serve`. Don't even try to use `ng serve` because it's a ready-made project. If you want to use `ng serve` for development, then you need to download and replace the files in your project in the `dist/project-name` directory, this also applies to all other `ng` commands.
+Run `http-server -o` for a dev server. Navigate to `http://127.0.0.1:8080/`, if you used `http server` without `-o` or else for some strange reason it did not open automatically in your browser. The application will not reload if you change any of the source files, because it not `ng serve`. Don't even try to use `ng serve` because it's a ready-made project. If you want to use `ng serve` for development, then you need to download and replace the files in your project in the `dist/project-name` directory, this also applies to all other `ng` commands.
 
 ## Code scaffolding
 
