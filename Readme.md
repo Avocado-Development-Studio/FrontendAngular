@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
-Run `http-server -o` for a dev server. Navigate to `http://127.0.0.1:8080/`. The application will automatically reload if you change any of the source files.
+Run `http-server -o` for a dev server. Navigate to `http://127.0.0.1:8080/`. The application will not reload if you change any of the source files, because it not `ng serve`.
 
 ## Code scaffolding
 
@@ -12,8 +12,7 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 ## Build
 
-Run `ng build --configuration "production" --base-href "https://github.com/Avocado-Development-Studio/FrontendAngular"` to build the project.
-The build artifacts will be stored in the `dist/pwa` directory.
+Run `ng build --configuration "production" --base-href "https://github.com/Avocado-Development-Studio/FrontendAngular"` to build the project. The build artifacts will be stored in the `dist/pwa` directory.
 
 ## Running unit tests
 
