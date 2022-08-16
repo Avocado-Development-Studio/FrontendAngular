@@ -1,0 +1,89 @@
+{
+  "configVersion": 1,
+  "timestamp": 1660619730214,
+  "index": "https://github.com/Avocado-Development-Studio/FrontendAngular/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://github.com/Avocado-Development-Studio/FrontendAngular/favicon.ico",
+        "https://github.com/Avocado-Development-Studio/FrontendAngular/index.html",
+        "https://github.com/Avocado-Development-Studio/FrontendAngular/main.cbea84080e8168e5.js",
+        "https://github.com/Avocado-Development-Studio/FrontendAngular/manifest.webmanifest",
+        "https://github.com/Avocado-Development-Studio/FrontendAngular/polyfills.386f7a5c3d6ab3c0.js",
+        "https://github.com/Avocado-Development-Studio/FrontendAngular/runtime.1d326e4961ba9c3c.js",
+        "https://github.com/Avocado-Development-Studio/FrontendAngular/scripts.4c4bc5ec0f005d98.js",
+        "https://github.com/Avocado-Development-Studio/FrontendAngular/styles.2a5f86d46d1e1886.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://github.com/Avocado-Development-Studio/FrontendAngular/assets/icons/bg.jpg",
+        "https://github.com/Avocado-Development-Studio/FrontendAngular/assets/icons/icon-144x144.png",
+        "https://github.com/Avocado-Development-Studio/FrontendAngular/assets/icons/icon-192x192.png",
+        "https://github.com/Avocado-Development-Studio/FrontendAngular/assets/icons/icon-48x48.png",
+        "https://github.com/Avocado-Development-Studio/FrontendAngular/assets/icons/icon-512x512.png",
+        "https://github.com/Avocado-Development-Studio/FrontendAngular/assets/icons/icon-72x72.png",
+        "https://github.com/Avocado-Development-Studio/FrontendAngular/assets/icons/icon-96x96.png",
+        "https://github.com/Avocado-Development-Studio/FrontendAngular/assets/icons/icon.png",
+        "https://github.com/Avocado-Development-Studio/FrontendAngular/assets/icons/icon2.png",
+        "https://github.com/Avocado-Development-Studio/FrontendAngular/assets/icons/icon3.png",
+        "https://github.com/Avocado-Development-Studio/FrontendAngular/bg.25c0686b6b779fff.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://github.com/Avocado-Development-Studio/FrontendAngular/assets/icons/bg.jpg": "818c8f6fe6de24067f5caea7039329ba1999ccdb",
+    "https://github.com/Avocado-Development-Studio/FrontendAngular/assets/icons/icon-144x144.png": "7643fd709889da273de859f30f9ff0fab6d925e8",
+    "https://github.com/Avocado-Development-Studio/FrontendAngular/assets/icons/icon-192x192.png": "ea66c7d7ac00d49704710247c4aa038a4272d328",
+    "https://github.com/Avocado-Development-Studio/FrontendAngular/assets/icons/icon-48x48.png": "5387fd10f2ae05e8ba90ce64dbdd4e2ab3087c86",
+    "https://github.com/Avocado-Development-Studio/FrontendAngular/assets/icons/icon-512x512.png": "1dec985aaaada3e5ddb3cc087588bb42c0a52a4c",
+    "https://github.com/Avocado-Development-Studio/FrontendAngular/assets/icons/icon-72x72.png": "bd370a01765a2e9aaf8f5af475f37ede0fb3c4fa",
+    "https://github.com/Avocado-Development-Studio/FrontendAngular/assets/icons/icon-96x96.png": "8e05ca66326756bc862ebe8fac2ada47f09e949c",
+    "https://github.com/Avocado-Development-Studio/FrontendAngular/assets/icons/icon.png": "2b4b65c7c67dfe2dd16887f7cce0ebfcb4f69700",
+    "https://github.com/Avocado-Development-Studio/FrontendAngular/assets/icons/icon2.png": "cba83c12113f7ad86db494e7c43c7688378de2c1",
+    "https://github.com/Avocado-Development-Studio/FrontendAngular/assets/icons/icon3.png": "f9a89e1375f1826ae80c03fb210700a2b531ec4a",
+    "https://github.com/Avocado-Development-Studio/FrontendAngular/bg.25c0686b6b779fff.jpg": "818c8f6fe6de24067f5caea7039329ba1999ccdb",
+    "https://github.com/Avocado-Development-Studio/FrontendAngular/favicon.ico": "b8db600343e8617bf584fc07a031e948baec8629",
+    "https://github.com/Avocado-Development-Studio/FrontendAngular/index.html": "72564076c6d36ef860daefc20384476dfd8f2d3f",
+    "https://github.com/Avocado-Development-Studio/FrontendAngular/main.cbea84080e8168e5.js": "8db10c43cffc982e37a9ee8d626395d5b9d0d3a5",
+    "https://github.com/Avocado-Development-Studio/FrontendAngular/manifest.webmanifest": "999b929e3fbf2ea831cff5df30e0647f962f14c3",
+    "https://github.com/Avocado-Development-Studio/FrontendAngular/polyfills.386f7a5c3d6ab3c0.js": "c43265708f95252bd0dd8ab71f8d0d552055aeea",
+    "https://github.com/Avocado-Development-Studio/FrontendAngular/runtime.1d326e4961ba9c3c.js": "2108b444f776a0945c13e3f608de4ad2ef940595",
+    "https://github.com/Avocado-Development-Studio/FrontendAngular/scripts.4c4bc5ec0f005d98.js": "efb1aec80bc833de526cd50cb0f74b45d8d5801c",
+    "https://github.com/Avocado-Development-Studio/FrontendAngular/styles.2a5f86d46d1e1886.css": "4c13048a75aaf889fd394c8838514543a5761866"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
